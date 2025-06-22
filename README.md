@@ -53,5 +53,9 @@ oOptimized and robust notebook with cross-validation results.
 oWell-documented spam_detection.ipynb with enhanced visuals.
 oFinal submission package (notebook, exported file, report, saved model files).
 
+output
 
+<img width="1710" alt="Image" src="https://github.com/user-attachments/assets/1b7a7774-c5ad-4437-9973-5460a04d3ad5" />
+<img width="1710" alt="Image" src="https://github.com/user-attachments/assets/3ddafcef-f843-4bc4-8c6f-088d4c278538" />
+<img width="1710" alt="Image" src="https://github.com/user-attachments/assets/d6e53ace-c27e-4efa-a331-b9114f253df8" />
 
